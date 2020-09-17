@@ -1,7 +1,7 @@
 ---
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
-title: "[Cidade] Back-end Developer @ Nome da Empresa"
+title: "[Remoto] Back-end Developer @iCasei"
 
 ---
 <!--
@@ -26,60 +26,47 @@ Exemplo: `[São Paulo] Back-End Developer @ NOME DA EMPRESA`
 Caso a vaga for remoto durante a pandemia deixar a linha abaixo
 ==================================================
 -->
-> Vaga Remota durante a pandemia
+> Vaga Remot
 
 ## Nossa empresa
-
-Exemplo: Aqui na Corporação ACME somos líderes em...
-
-## Descrição da vaga
-
-Exemplo: Projeto bazinga em NodeJS, etc.
+O iCasei é o maior e melhor fornecedor de sites e listas de casamento na América Latina e hoje é líder no mercado. 
 
 ## Local
 
-Exemplo: Remoto ou Escritório, São Paulo - Vila Olímpia
+FULL HOME OFFICE
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
-
-**Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- Ruby On Rails
+- SQL Server
+- MySQL
+- MongoDB
+- Docker / Kubernets
+- Conhecimento em ferramentas GIT (Conhecimento do Terminal)
 
 **Diferenciais:**
-- projetos opensource
+- Conhecimento de frameworks Js
+- Experiencia com AWS e Google Cloud
+- Experiência com serviços de mensageria
+- Inglês (técnico)
 
 ## Benefícios
 
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
-
-**Diferenciais:**
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
+- A combinar
 
 ## Contratação
 
-PJ a combinar
+PJ
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor preencher o formulário: https://forms.gle/ZbMvnr8kcu2V8Zj59
 
 ## Tempo médio de feedbacks
 
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
+Costumamos enviar feedbacks em até 2 dias após cada processo.
+E-mail para contato em caso de não haver resposta: backend@icasei.com.br
 
 ## Labels
 <!-- retire os labels que não fazem sentido à vaga -->
@@ -89,13 +76,9 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 - Remoto
 
 #### Regime
-- CLT
-- Estágio
-- Freela
 - PJ
 
 #### Nível
-- Júnior
 - Pleno
 - Sênior
 - Especialista
